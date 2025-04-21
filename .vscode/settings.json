@@ -1,0 +1,26 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.validate": ["javascript", "typescript"],
+
+  "eslint.format.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "background.fullscreen": {
+    "images": [
+      "https://i.pinimg.com/1200x/15/00/a8/1500a847e5e05125d1dca61ad1132e99.jpg"
+    ],
+    "opacity": 0.05,
+    "size": "cover",
+    "position": "center",
+    "interval": 0,
+    "random": false
+  }
+}
