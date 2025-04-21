@@ -59,7 +59,7 @@ const logUser = (user: SimpleUser) => {
 
 const users: SimpleUser[] = [
   { name: 'Alice', age: 28 },
-  { name: 'Bob', age: 32 },
+  { name: 'Bob', age: 50 },
   { name: 'Charlie', age: 25 },
 ];
 
