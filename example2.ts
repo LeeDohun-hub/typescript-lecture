@@ -57,7 +57,7 @@ const onion: Item = {
 const watch: Item = {
   name: 'watch',
   category: Category.ACCESSORY,
-  price: 100000,
+  price: 5000,
   quantity: 1,
 };
 
